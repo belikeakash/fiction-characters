@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fiction-characters/static/css/main.55a2a036.chunk.css",
+    "main.js": "/fiction-characters/static/js/main.f7767d26.chunk.js",
+    "main.js.map": "/fiction-characters/static/js/main.f7767d26.chunk.js.map",
+    "runtime-main.js": "/fiction-characters/static/js/runtime-main.73f7d2fd.js",
+    "runtime-main.js.map": "/fiction-characters/static/js/runtime-main.73f7d2fd.js.map",
+    "static/js/2.4f415537.chunk.js": "/fiction-characters/static/js/2.4f415537.chunk.js",
+    "static/js/2.4f415537.chunk.js.map": "/fiction-characters/static/js/2.4f415537.chunk.js.map",
+    "index.html": "/fiction-characters/index.html",
+    "static/css/main.55a2a036.chunk.css.map": "/fiction-characters/static/css/main.55a2a036.chunk.css.map",
+    "static/js/2.4f415537.chunk.js.LICENSE.txt": "/fiction-characters/static/js/2.4f415537.chunk.js.LICENSE.txt",
+    "static/media/SearchResults.css": "/fiction-characters/static/media/pop1.d35aa6ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73f7d2fd.js",
+    "static/js/2.4f415537.chunk.js",
+    "static/css/main.55a2a036.chunk.css",
+    "static/js/main.f7767d26.chunk.js"
+  ]
+}
